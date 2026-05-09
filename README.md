@@ -13,6 +13,25 @@ This application demonstrates how to implement robust security in a Spring Boot 
 * **Custom Login & Registration:** Tailored forms for user authentication and creation.
 * **Modern UI/UX:** Responsive and clean frontend design utilizing Bootstrap 5.
 
+## 📸 Project Showcase
+
+### 🏠 Landing Page
+![Landing Page](screenshots/landing%20page.png)
+
+### 🔐 Authentication
+<p align="center">
+  <img src="screenshots/login.png" alt="Login" width="45%" />
+  <img src="screenshots/register.png" alt="Register" width="45%" />
+</p>
+
+### 📊 Dashboard & Role Access
+![Dashboard](screenshots/dashboard.png)
+
+<p align="center">
+  <img src="screenshots/admin%20detail%20only.png" alt="Admin Details" width="45%" />
+  <img src="screenshots/management%20detail%20only.png" alt="Management Details" width="45%" />
+</p>
+
 ## 🛠️ Built With
 
 * **Backend:** Java, Spring Boot, Spring MVC, Spring Security
